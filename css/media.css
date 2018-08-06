@@ -1,0 +1,454 @@
+@media screen and (max-width: 1200px) {
+    .navigation {
+        width: 600px;
+        margin-left: 10px;
+    }
+    .fa-chevron-right-item {
+        right: 0px;
+    }
+    .rights {
+        margin-left: 20px;
+    }
+    .real-property {
+        height: 915px;
+    }
+    .contatcts {
+
+    }
+}
+@media screen and (max-width: 992px) {
+    .navigation {
+        display: none;
+    }
+    .contatcts {
+        margin-top: -78px;
+        float: right;
+        margin-right: -623px
+    }
+    .contatctsfoot {
+        display: none;
+    }
+    .block {
+        height: 450px;
+    }
+    .advantages {
+        height: 684px;
+    }
+    .how-relocate {
+        width: 686px;
+    }
+    .how-relocate:before {
+        margin-left: 332px;
+    }
+    .how-relocate:after {
+        margin-left: 335px;
+    }
+    .dreaming-home {
+        margin-left: -38px;
+    }
+    .relocation {
+        margin-left: -38px;
+    }
+    .diana-apasova {
+        margin-left: -20px;
+    }
+    .name__text {
+        margin-left: 22%;
+    }
+    .fa-chevron-right-item {
+        right: -55px;
+    }
+    .diana-apasova__next {
+        margin-left: 10%;
+    }
+    .rights {
+        margin-left: 33%;
+    }
+    .politics {
+        float: right;
+    }
+    .fa-chevron-left-item {
+        left: -190px;
+    }
+
+}
+@media screen and (max-width: 768px) {
+    .contatcts {
+        margin-top: -78px;
+        margin-left: 283px;
+        float: none;
+    }
+    .how-relocate {
+        width: 520px;
+    }
+    .resort {
+        margin-left: 0;
+    }
+    .bolgary-text {
+        margin-left: 0;
+        font-size: 44px;
+    }
+    .tabl {
+        position: relative;
+    }
+    .block {
+        height: 300px;
+    }
+    .advantages {
+        height: 991px;
+    }
+    .block:nth-child(1) {
+        position: absolute;
+        width: 237px;
+        height: 409px;
+        top: -8%;
+
+    }
+    .block:nth-child(2) {
+        position: absolute;
+        width: 230px;
+        height: 409px;
+        top: -8%;
+        left: 47%;
+    }
+    .block:nth-child(3) {
+        position: relative;
+        width: 485px;
+        height: 295px;
+        margin-top: 90%;
+    }
+    .how-relocate:before {
+        margin-left: 245px;
+    }
+    .how-relocate:after {
+        margin-left: 245px;
+        margin-top: 0%;
+    }
+    .dreaming-home {
+        margin-left: 0;
+        width: 510px;
+        height: 308px;
+    }
+    .relocation {
+        height: 160px;
+        width: 510px;
+        margin-left: 0%;
+    }
+    .real-property {
+        height: 1070px;
+    }
+    .contatctsfoot {
+        display: none;
+    }
+    .logo-foooter {
+        margin-left: -25%;
+    }
+    .rights {
+        font-size: 12px;
+        margin: 0;
+        margin-top: 15%;
+        margin-left: 32%;
+        width: 190px;
+    }
+    .politics {
+        font-size: 12px;
+        margin-top: 15%;
+        width: 180px;
+        float: none;
+        margin-left: 13px;
+    }
+    .politics:after {
+        width: 178px;
+    }
+    .question-moving {
+        height: 810px;
+    }
+    .reviews {
+        height: 610px;
+    }
+    .diana-apasova {
+        margin-left: -18px;
+    }
+    .bolgary {
+        font-size: 64px;
+    }
+    .name__diana {
+        margin-left: 70px;
+        font-size: 14px;
+    }
+    .name__vk {
+        margin-left: 27px;
+    }
+    .name__moskow {
+        margin-left: 40px;
+    }
+    .name__text {
+        margin-left: 30%;
+        width: 371px;
+    }
+    .diana-apasova__line {
+        width: 450px;
+    }
+    .fa-chevron-right-item {
+        right: -40px;
+    }
+    .fa-chevron-left-item {
+        left: -155px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .logo {
+        margin-left: -15px;
+    }
+    .contatcts {
+        margin-left: 204px;
+    }
+    .block:nth-child(1) {
+        position: static;
+        width: 333px;
+        height: 353px;
+        background: #f4f4f4;
+        margin-top: 68px;
+        text-align: center;
+        box-shadow: 0px 3px 11px -3px #a9a9a9;
+
+    }
+    .block:nth-child(2) {
+        position: static;
+        width: 333px;
+        height: 353px;
+        background: #f4f4f4;
+        margin-top: 68px;
+        text-align: center;
+        box-shadow: 0px 3px 11px -3px #a9a9a9;
+    }
+    .block:nth-child(3) {
+        position: static;
+        width: 333px;
+        height: 353px;
+        background: #f4f4f4;
+        margin-top: 68px;
+        text-align: center;
+        box-shadow: 0px 3px 11px -3px #a9a9a9;
+    }
+    .blockmain {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .advantages {
+        height: 1508px;
+    }
+    .how-relocate {
+        width: 458px;
+    }
+    .how-relocate:before {
+        margin-left: 215px;
+    }
+    .how-relocate:after {
+        margin-left: 215px;
+        margin-top: 0%;
+    }
+    .building_hom:last-child {
+        position: relative;
+        left: 126px;
+        top: -111px;
+    }
+    .dreaming-home {
+        margin-top: -180px;
+    }
+    .real-property__images {
+        margin-right: 85px;
+    }
+    .dreaming-home {
+        width: 458px;
+    }
+    .relocation {
+        width: 458px;
+        height: 182px;
+    }
+    .name__text {
+        width: 300px;
+    }
+    .fa-chevron-right-item {
+        display: none;
+    }
+    .fa-chevron-left-item {
+        display: none;
+    }
+    .diana-apasova__line {
+        display: none;
+    }
+    .name {
+        margin-left: 17%;
+    }
+    .name__text {
+        margin-left: 33%;
+    }
+    .diana-apasova__next {
+        margin: 0 auto;
+    }
+    .politics {
+        display: none;
+    }
+    .rights {
+        font-size: 14px;
+        margin-top: -10%;
+        margin-left: 45%;
+    }
+}
+/* contacts-media */
+@media screen and (min-width: 1200px) {
+     .navigation-contacts {
+         margin-left: 21%;
+        }
+}
+@media screen and (max-width: 1200px) {
+    .navigation-contacts {
+        margin-left: 13%;
+    }
+}
+@media screen and (max-width: 992px) {
+    .footer-contacts {
+        margin-top: 382px;
+    }
+    .contacts-form {
+        height: 1048px;
+        top: -9%;
+    }
+    .formacontact {
+        margin: 0 auto;
+    }
+    .communications {
+        margin-left: 150px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .contacts-form {
+        top: -6%;
+    }
+}
+@media screen and (max-width: 500px) {
+    .communications-phone {
+        padding-left: 15%;
+    }
+    .communications-maile {
+        padding-left: 15%;
+    }
+    .communications-skype {
+        padding-left: 15%;
+    }
+}
+/* Недвижимость */
+
+@media screen and (max-width: 992px) {
+    .realty-form {
+        display: contents;
+    }
+    .home-item {
+        padding-left: 0;
+    }
+    .home-item__text {
+        padding-top: 30px;
+        padding-left: 25px;
+    }
+    .realty {
+        height: 740px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .realty {
+        height: 1065px;
+    }
+    .home-item {
+        padding-left: 88px;
+    }
+    .home-item__text {
+        text-align: center;
+        padding: 0px;
+        padding-top: 30px;
+    }
+    .home-item__packege {
+        padding-left: 0;
+        text-align: center;
+    }
+    .row-item__two {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .bolgary {
+        font-size: 53px;
+    }
+    .under-item__cta {
+        margin-top: -24%;
+    }
+}
+@media screen and (max-width: 576px) {
+    .bolgary {
+        font-size: 32px;
+    }
+    .home-item {
+        padding: 0;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+}
+/* О нас */
+@media screen and (max-width: 992px) {
+    .new-hom {
+        font-size: 31px;
+    }
+    .new-hom__item {
+        font-size: 33px;
+    }
+    .realty-form {
+        display: contents;
+    }
+    .ready {
+        background: #23aae2 top center /cover;
+    }
+    .managing-partners {
+        width: 333px;
+        height: 600px;
+    }
+    .realty-about {
+        height: 969px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .managing-partners__main {
+        margin-top: 55px;
+        display: flex;
+        flex-direction: column;
+    }
+    .realty-about {
+        height: 1490px;
+    }
+    .new-hom {
+        font-size: 22px;
+    }
+    .new-hom__item {
+        font-size: 22px;
+    }
+    .ten {
+        font-size: 22px;
+    }
+    .ten-item {
+        font-size: 12px;
+    }
+    .purchase {
+        font-size: 16px;
+    }
+    .reliability {
+        padding: 0;
+        padding-top: 50px;
+    }
+    .managing-partners {
+        margin-bottom: 35px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .realty-about {
+        height: 1600px;
+    }
+}
